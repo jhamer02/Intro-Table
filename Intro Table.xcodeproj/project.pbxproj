@@ -14,6 +14,20 @@
 		E4A9330C1D18DBC50031F563 /* Intro_Table.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E4A9330A1D18DBC50031F563 /* Intro_Table.xcdatamodeld */; };
 		E4A9330E1D18DBC50031F563 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4A9330D1D18DBC50031F563 /* Assets.xcassets */; };
 		E4A933111D18DBC50031F563 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4A9330F1D18DBC50031F563 /* LaunchScreen.storyboard */; };
+		E4A9331C1D18E6E40031F563 /* Intro.m in Sources */ = {isa = PBXBuildFile; fileRef = E4A9331B1D18E6E40031F563 /* Intro.m */; };
+		E4A9331F1D18E9E40031F563 /* Declarations.m in Sources */ = {isa = PBXBuildFile; fileRef = E4A9331E1D18E9E40031F563 /* Declarations.m */; };
+		E4A9332B1D1A46F70031F563 /* avengers.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933281D1A46F70031F563 /* avengers.png */; };
+		E4A9332C1D1A46F70031F563 /* iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933291D1A46F70031F563 /* iphone.png */; };
+		E4A9332D1D1A46F70031F563 /* summer.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A9332A1D1A46F70031F563 /* summer.png */; };
+		E4A933301D1A51280031F563 /* Home.m in Sources */ = {isa = PBXBuildFile; fileRef = E4A9332F1D1A51280031F563 /* Home.m */; };
+		E4A933351D1A554A0031F563 /* cellAvengers.m in Sources */ = {isa = PBXBuildFile; fileRef = E4A933331D1A554A0031F563 /* cellAvengers.m */; };
+		E4A933361D1A554A0031F563 /* cellAvengers.xib in Resources */ = {isa = PBXBuildFile; fileRef = E4A933341D1A554A0031F563 /* cellAvengers.xib */; };
+		E4A9333D1D1A61D30031F563 /* blackwidow.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933371D1A61D30031F563 /* blackwidow.png */; };
+		E4A9333E1D1A61D30031F563 /* captain.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933381D1A61D30031F563 /* captain.png */; };
+		E4A9333F1D1A61D30031F563 /* hulk.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933391D1A61D30031F563 /* hulk.png */; };
+		E4A933401D1A61D30031F563 /* ironman.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A9333A1D1A61D30031F563 /* ironman.png */; };
+		E4A933411D1A61D30031F563 /* spiderman.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A9333B1D1A61D30031F563 /* spiderman.png */; };
+		E4A933421D1A61D30031F563 /* thor.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A9333C1D1A61D30031F563 /* thor.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +42,24 @@
 		E4A9330D1D18DBC50031F563 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4A933101D18DBC50031F563 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E4A933121D18DBC50031F563 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4A9331A1D18E6E40031F563 /* Intro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Intro.h; sourceTree = "<group>"; };
+		E4A9331B1D18E6E40031F563 /* Intro.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Intro.m; sourceTree = "<group>"; };
+		E4A9331D1D18E9E40031F563 /* Declarations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Declarations.h; sourceTree = "<group>"; };
+		E4A9331E1D18E9E40031F563 /* Declarations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Declarations.m; sourceTree = "<group>"; };
+		E4A933281D1A46F70031F563 /* avengers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avengers.png; sourceTree = "<group>"; };
+		E4A933291D1A46F70031F563 /* iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iphone.png; sourceTree = "<group>"; };
+		E4A9332A1D1A46F70031F563 /* summer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = summer.png; sourceTree = "<group>"; };
+		E4A9332E1D1A51280031F563 /* Home.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Home.h; sourceTree = "<group>"; };
+		E4A9332F1D1A51280031F563 /* Home.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Home.m; sourceTree = "<group>"; };
+		E4A933321D1A554A0031F563 /* cellAvengers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cellAvengers.h; sourceTree = "<group>"; };
+		E4A933331D1A554A0031F563 /* cellAvengers.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cellAvengers.m; sourceTree = "<group>"; };
+		E4A933341D1A554A0031F563 /* cellAvengers.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = cellAvengers.xib; sourceTree = "<group>"; };
+		E4A933371D1A61D30031F563 /* blackwidow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blackwidow.png; sourceTree = "<group>"; };
+		E4A933381D1A61D30031F563 /* captain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = captain.png; sourceTree = "<group>"; };
+		E4A933391D1A61D30031F563 /* hulk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hulk.png; sourceTree = "<group>"; };
+		E4A9333A1D1A61D30031F563 /* ironman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ironman.png; sourceTree = "<group>"; };
+		E4A9333B1D1A61D30031F563 /* spiderman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spiderman.png; sourceTree = "<group>"; };
+		E4A9333C1D1A61D30031F563 /* thor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thor.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +92,8 @@
 		E4A932FD1D18DBC50031F563 /* Intro Table */ = {
 			isa = PBXGroup;
 			children = (
+				E4A933311D1A55140031F563 /* Cells */,
+				E4A933271D1A46F70031F563 /* images */,
 				E4A933191D18DBE30031F563 /* Main */,
 				E4A933181D18DBD60031F563 /* Controllers */,
 				E4A933071D18DBC50031F563 /* Main.storyboard */,
@@ -85,6 +119,10 @@
 			children = (
 				E4A933041D18DBC50031F563 /* Start.h */,
 				E4A933051D18DBC50031F563 /* Start.m */,
+				E4A9331A1D18E6E40031F563 /* Intro.h */,
+				E4A9331B1D18E6E40031F563 /* Intro.m */,
+				E4A9332E1D1A51280031F563 /* Home.h */,
+				E4A9332F1D1A51280031F563 /* Home.m */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -94,8 +132,36 @@
 			children = (
 				E4A933011D18DBC50031F563 /* AppDelegate.h */,
 				E4A933021D18DBC50031F563 /* AppDelegate.m */,
+				E4A9331D1D18E9E40031F563 /* Declarations.h */,
+				E4A9331E1D18E9E40031F563 /* Declarations.m */,
 			);
 			name = Main;
+			sourceTree = "<group>";
+		};
+		E4A933271D1A46F70031F563 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				E4A933371D1A61D30031F563 /* blackwidow.png */,
+				E4A933381D1A61D30031F563 /* captain.png */,
+				E4A933391D1A61D30031F563 /* hulk.png */,
+				E4A9333A1D1A61D30031F563 /* ironman.png */,
+				E4A9333B1D1A61D30031F563 /* spiderman.png */,
+				E4A9333C1D1A61D30031F563 /* thor.png */,
+				E4A933281D1A46F70031F563 /* avengers.png */,
+				E4A933291D1A46F70031F563 /* iphone.png */,
+				E4A9332A1D1A46F70031F563 /* summer.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		E4A933311D1A55140031F563 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				E4A933321D1A554A0031F563 /* cellAvengers.h */,
+				E4A933331D1A554A0031F563 /* cellAvengers.m */,
+				E4A933341D1A554A0031F563 /* cellAvengers.xib */,
+			);
+			name = Cells;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -156,9 +222,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4A9333D1D1A61D30031F563 /* blackwidow.png in Resources */,
+				E4A9333F1D1A61D30031F563 /* hulk.png in Resources */,
+				E4A9332D1D1A46F70031F563 /* summer.png in Resources */,
+				E4A933401D1A61D30031F563 /* ironman.png in Resources */,
 				E4A933111D18DBC50031F563 /* LaunchScreen.storyboard in Resources */,
+				E4A933361D1A554A0031F563 /* cellAvengers.xib in Resources */,
 				E4A9330E1D18DBC50031F563 /* Assets.xcassets in Resources */,
+				E4A9332C1D1A46F70031F563 /* iphone.png in Resources */,
+				E4A933421D1A61D30031F563 /* thor.png in Resources */,
+				E4A9332B1D1A46F70031F563 /* avengers.png in Resources */,
+				E4A9333E1D1A61D30031F563 /* captain.png in Resources */,
 				E4A933091D18DBC50031F563 /* Main.storyboard in Resources */,
+				E4A933411D1A61D30031F563 /* spiderman.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -169,9 +245,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4A9331C1D18E6E40031F563 /* Intro.m in Sources */,
 				E4A933061D18DBC50031F563 /* Start.m in Sources */,
+				E4A9331F1D18E9E40031F563 /* Declarations.m in Sources */,
 				E4A933031D18DBC50031F563 /* AppDelegate.m in Sources */,
+				E4A933351D1A554A0031F563 /* cellAvengers.m in Sources */,
 				E4A933001D18DBC50031F563 /* main.m in Sources */,
+				E4A933301D1A51280031F563 /* Home.m in Sources */,
 				E4A9330C1D18DBC50031F563 /* Intro_Table.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
